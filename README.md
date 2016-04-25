@@ -22,4 +22,3 @@ Here are some examples of calling the program (on a command line) and what the p
 (4) sort -r file.txt; This should print the lines of file.txt to the screen in reverse sorted order.
 (5)	sort -u -r -f output.txt file.txt; This should write the reverse sorted lines of file.txt, only unique lines, and ignore case.
 
-** Note you will need a test file. 
