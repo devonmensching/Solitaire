@@ -1,6 +1,8 @@
 # Sort 
 This is one of the assigments I had for my Operating Systems course (CSC438). It was an indviudal project, and we had one week to complete it. 
 
+NOTE: The input should be set by setting the arguments in run configuartion. 
+
 
 
 Here is the assigment: 
